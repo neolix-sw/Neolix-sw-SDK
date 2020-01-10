@@ -17,4 +17,6 @@
     * Displays the border of the object to be measured
     * Added large object measurement mode
     * Added alignment calibration function
-    * Voice prompts are added to make the measurement more standardized
+    * Added Voice prompts to make the measurement more standardized
+    * App Version: v1.3.01.10
+    * Algorithm version: V4.20200109.3
