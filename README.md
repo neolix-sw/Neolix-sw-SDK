@@ -1,6 +1,6 @@
-# <center>Contents</center><h1>
+# <center>Neolix Guide</center><h1>
 
-
+## Content
 * Operation manual
     * Neolix X9 3D Volume Measurement Guide Book.pdf
 * Development Doc
@@ -10,3 +10,11 @@
     * neolixMeasure.apk
 * Tools
     * logcat_tools.zip    
+
+
+## Release Note 
+* Neolix Measure App
+    * Displays the border of the object to be measured
+    * Added large object measurement mode
+    * Added alignment calibration function
+    * Voice prompts are added to make the measurement more standardized
