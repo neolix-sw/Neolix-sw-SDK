@@ -20,3 +20,8 @@
     * Added Voice prompts to make the measurement more standardized
     * App Version: v1.3.01.10
     * Algorithm version: V4.20200109.3
+
+
+
+# Please read the Guide Book carefully before using Measure App.<h1>
+    
