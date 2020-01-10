@@ -1,4 +1,4 @@
-# <center>Neolix Doc</center><h1>
+# <center>Contents</center><h1>
 
 
 * Operation manual
